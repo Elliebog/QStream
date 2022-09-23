@@ -1,0 +1,27 @@
+{
+  "name": "qstream",
+  "version": "1.0.0",
+  "description": "Quidditch stream overlay",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elliebog/QStream.git"
+  },
+  "keywords": [
+    "Quidditch",
+    "overlay",
+    "stream"
+  ],
+  "author": "Elena Bogner",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Elliebog/QStream/issues"
+  },
+  "homepage": "https://github.com/Elliebog/QStream#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
