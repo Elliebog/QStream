@@ -1,0 +1,14 @@
+$rowcontentsize: 50px;
+
+
+h1 {
+    text-align: center;
+}
+
+.contenttext {
+    font-size: $rowcontentsize * 0.6;
+}
+
+.logo {
+    max-height: $rowcontentsize;
+}
