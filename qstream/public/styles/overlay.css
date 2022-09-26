@@ -7,4 +7,12 @@ body {
   height: 1080px;
 }
 
+.teamlogo {
+  max-height: 96px;
+}
+
+.scoreboardtext {
+  font-size: 57.6px;
+}
+
 /*# sourceMappingURL=overlay.css.map */

@@ -1,8 +1,20 @@
+$resolution-x: 1920px;
+$resolution-y: 1080px;
+$scoreboard-height: $resolution-x * 0.05;
+
 #scoreboard {
     border: 1px solid black;
 }
 
 body {
-    width: 1920px;
-    height: 1080px;
+    width: $resolution-x;
+    height: $resolution-y;
+}
+
+.teamlogo {
+    max-height: $scoreboard-height;
+}
+
+.scoreboardtext {
+    font-size: $scoreboard-height * 0.6;
 }

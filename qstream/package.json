@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Elliebog/QStream#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "fitty": "^2.3.6"
   }
 }
